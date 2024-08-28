@@ -164,3 +164,65 @@ font-family: "Poppins", sans-serif; */
 }
 
 
+.projects-wrapper {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.project-title {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  color: #5C62EC;
+  margin-top: 70px;
+}
+
+
+.project-description {
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  color: #171718;
+  margin-top: 40px;
+}
+
+
+.project-button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #000000;
+  padding: 13px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "DM Sans", sans-serif;
+  color: #000000;
+}
+
+
+.skills-title {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: "DM Sans", sans-serif;
+  color: #5C62EC;
+  margin-top: 70px;
+}
+
+.skills-wrapper {
+  margin: 0 auto;
+}
+
+.item-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: "DM Sans", sans-serif;
+  color: #171718;
+}
+
+
+
